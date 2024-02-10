@@ -13,4 +13,4 @@ area= Base *  height / 2;
 
 Console.WriteLine("You area is: " + area);
 Console.WriteLine("Thanks!!");
-Console.ReadLine ();
+Console.ReadKey ();
